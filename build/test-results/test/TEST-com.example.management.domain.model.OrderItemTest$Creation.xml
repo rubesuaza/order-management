@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="creation" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-02-03T21:03:18.181Z" hostname="RubenS" time="0.053">
+  <properties/>
+  <testcase name="shouldThrowWhenQuantityIsZero()" classname="com.example.management.domain.model.OrderItemTest$Creation" time="0.014"/>
+  <testcase name="shouldCreateWithValidQuantityAndPrice()" classname="com.example.management.domain.model.OrderItemTest$Creation" time="0.008"/>
+  <testcase name="shouldAllowZeroUnitPrice()" classname="com.example.management.domain.model.OrderItemTest$Creation" time="0.002"/>
+  <testcase name="shouldThrowWhenQuantityIsNegative()" classname="com.example.management.domain.model.OrderItemTest$Creation" time="0.004"/>
+  <testcase name="shouldThrowWhenUnitPriceIsNegative()" classname="com.example.management.domain.model.OrderItemTest$Creation" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

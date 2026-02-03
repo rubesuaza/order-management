@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="creation" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-02-03T21:03:18.397Z" hostname="RubenS" time="0.026">
+  <properties/>
+  <testcase name="shouldCreateOrderWithAtLeastOneItem()" classname="com.example.management.domain.model.OrderTest$Creation" time="0.015"/>
+  <testcase name="shouldCalculateTotalAsSumOfLineTotals()" classname="com.example.management.domain.model.OrderTest$Creation" time="0.002"/>
+  <testcase name="shouldThrowWhenCreatingOrderWithNoItems()" classname="com.example.management.domain.model.OrderTest$Creation" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

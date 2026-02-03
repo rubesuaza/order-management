@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Address Value Object" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-02-03T21:03:17.766Z" hostname="RubenS" time="0.217">
+  <properties/>
+  <testcase name="shouldCreateWithAllAttributes()" classname="com.example.management.domain.model.AddressTest" time="0.205"/>
+  <testcase name="shouldBeEqualWhenAllFieldsMatch()" classname="com.example.management.domain.model.AddressTest" time="0.004"/>
+  <testcase name="shouldNotBeEqualWhenFieldsDiffer()" classname="com.example.management.domain.model.AddressTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
